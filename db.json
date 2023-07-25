@@ -1,14 +1,4 @@
 {
-  "tasks": [
-    {
-      "title": "h",
-      "completed": true,
-      "id": 4
-    },
-    {
-      "title": "dsfgs",
-      "completed": true,
-      "id": 5
-    }
-  ]
+  "tasks": [],
+  "users": []
 }
